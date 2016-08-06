@@ -1,0 +1,28 @@
+_repo: The-Personal-Touch_9957
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chapman, J. Wilbur (John Wilbur)
+    aliases:
+    - Chapman, Wilbur
+    - Chapman, John Wilbur
+    birthdate: 1859
+    deathdate: 1918
+    gutenberg_agent_id: '3220'
+    url: http://www.gutenberg.org/2009/agents/3220
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evangelistic work'
+- !lcc 'BV'
+- !lcsh 'Salvation -- Christianity'
+- GITenberg
+title: The Personal Touch
+url: http://www.gutenberg.org/ebooks/9957
