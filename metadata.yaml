@@ -1,5 +1,8 @@
 _repo: The-Personal-Touch_9957
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chapman, J. Wilbur (John Wilbur)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '3220'
     url: http://www.gutenberg.org/2009/agents/3220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9957#The-Personal-Touch
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
